@@ -28,7 +28,7 @@ Tambien cuenta con un boton para limpiar los campos y otro para cambiar el salud
 
 ## Funcionamiento de los botones
 
-### Preaentación
+### Presentación
 
 Obtener los datos ingresados por el usuario y realiza las siguientes validaciones:
 
