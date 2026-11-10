@@ -28,9 +28,9 @@ Tambien cuenta con un boton para limpiar los campos y otro para cambiar el salud
 
 ## Funcionamiento de los botones
 
-### Presentarme
+### Preaentación
 
-Obtiene los datos ingresados por el usuario y realiza las siguientes validaciones:
+Obtener los datos ingresados por el usuario y realiza las siguientes validaciones:
 
 - Comprueba que el nombre no este vacio.
 - Comprueba que el apellido no este vacio.
