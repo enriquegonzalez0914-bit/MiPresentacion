@@ -88,8 +88,3 @@ dotnet run
 - MiPresentacion.csproj
 - README.md
 
-## Autor
-
-Enrique Gonzalez
-
-Proyecto academico de Profundizacion en .NET.
